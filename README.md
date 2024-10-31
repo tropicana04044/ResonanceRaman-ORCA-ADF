@@ -1,4 +1,4 @@
-# ResonanceRaman-ADF
+# ResonanceRaman-ORCA-ADF
 
 Python script written for the Journal of Physical Chemistry B
 
